@@ -1,4 +1,4 @@
-# magic_eight_ball
+# Magic 8 Ball
 
 ## Overview
 
