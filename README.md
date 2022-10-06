@@ -2,7 +2,7 @@
 
 ## Overview
 
-Practise Javascript - Code for building Magic 8 Ball
+Javascript practise - Code for building Magic 8 Ball
 
 ## Requirement
 
